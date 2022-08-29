@@ -1,0 +1,1 @@
+# Disciplina_Sistema_Distribuidos-2022.2
